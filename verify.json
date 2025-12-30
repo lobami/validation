@@ -2,7 +2,6 @@
   "status": "active",
   "check_interval": 3600,
   "valid_tokens": [
-    "TU_TOKEN_SECRETO_AQUI",
-    "OTRO_TOKEN_CLIENTE_2"
+    "rcFKIo37HQZgjGtKih5czxkaQcrrqw8py5BudJLws72yxWlPPL7OgK13MHWDtOgW"
   ]
 }
